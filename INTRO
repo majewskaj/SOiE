@@ -6,10 +6,13 @@ _________ JAK PRACUJEMY? _________
 
 Na ćwiczeniach:
 • rozwiązujemy zadania (obliczenia w Excelu + interpretacje)
-• korzeystamy z zestawów zadań: 1) struktura danych 2) zróżnicowanie danych 3) asymetria rozkładu 4) analiza zależności 5) analiza regresji 6) analiza dynamiki
-• ćwiczenia są obowiązkowe (Regulamin studiów)
+• korzystamy z zestawów zadań: 1) struktura danych 2) zróżnicowanie danych 3) asymetria rozkładu 4) analiza zależności 5) analiza regresji 6) analiza dynamiki
+• ćwiczenia są obowiązkowe (Regulamin studiów) --> można mieć 2 nieobecności, których nie trzeba usprawiedliwiać
 • korzystamy ze wzorów z wykładów (nie korzystać ze wzorów z Internetu (inne symbole)) --> posiadanie notatek z wykładów OBOWIĄZKOWE
 • praca wymaga rozwiązywania dodatkowych zadań w domu (2-3 zadania)
+• w przypadku nieobecności student jest zobowiązany do uzupełnienia materiału 
+  (w przypadku dłuższej nieobecności konieczny kontakt z prowadzącym celem ustalenia terminów uzupełniania materiału)
+
 
 
 _________  ZALICZENIE _________ 
@@ -22,6 +25,7 @@ _________  ZALICZENIE _________
   2. wykład: 
          • test (z prowadzącym wykład)
   OCENA KOŃCOWA: w protokołach z ćwiczenia wpisujemy ZAL/NIE ZAL, z wykładu - średnia ważona oceny z testu (waga 0.6) i ćwiczeń (waga 0.4)
+  
 • Brak zaliczenia ćwiczeń w pierwszym terminie = sesja poprawkowa (zgodnie z harmonogramem roku, 
   termin zaliczenia ćwiczeń pojawi się na stronie https://www.ue.katowice.pl/pracownicy/wydzial-informatyki-i-komunikacji/katedra-demografii-i-statystyki-ekonomicznej/justyna-majewska.html)
 
@@ -47,3 +51,15 @@ POTRAFISZ sformułować wnioski i zaprezentować wyniki analizy zbiorowości sta
 PREZENTUJESZ propozycje rozwiązań, podejmuje próby oceny innych rozwiązań, podejmuje dyskusje w zakresie zastosowania metod statystycznych.
 
 KORZYSTASZ z różnych źródeł wiedzy, selekcjonuje informacje i wykorzystuje je w rozwiązywaniu problemów
+
+TREŚĆI NA ĆWCZENIACH:
+Typy szeregów statystycznych.
+Parametry rozkładu jednowymiarowej zmiennej: średnia arytmetyczna, mediana, dominanta, kwantyle,
+Parametry rozkładu jednowymiarowej zmiennej: współczynnik zmienności, rozstęp, rozstęp ćwiartkowy, odchylenie przeciętne, odchylenie standardowe, odchylenie ćwiartkowe, współczynniki asymetrii: 3-moment centralny, wsp. Pearsona.
+Współczynniki chi-kwadrat i kontyngencyjności.
+Współczynnik korelacji rangowej Spearmana.
+Współczynniki korelacji liniowej.
+Funkcja regresji I rodzaju.
+Parametry liniowej funkcji regresji II rodzaju dla jednej zmiennej objaśniającej, współczynnik zbieżności i determinacji, wariancja resztowa.
+Indeksowa analiza szeregów czasowych. Indeksy indywidualne. Średnie tempo zmian. Prognozowanie na podstawie indeksu średniego
+Indeksowa analiza szeregów czasowych. Indeksy zespołowe wielkości absolutnych.
